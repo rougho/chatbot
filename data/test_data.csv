@@ -1,0 +1,234 @@
+Question_ID,Questions,Answers
+0,"hi, how are you doing?",i'm fine. how about yourself?
+1,i'm fine. how about yourself?,i'm pretty good. thanks for asking.
+2,i'm pretty good. thanks for asking.,no problem. so how have you been?
+3,no problem. so how have you been?,i've been great. what about you?
+4,i've been great. what about you?,i've been good. i'm in school right now.
+5,i've been good. i'm in school right now.,what school do you go to?
+6,what school do you go to?,i go to pcc.
+7,i go to pcc.,do you like it there?
+8,do you like it there?,it's okay. it's a really big campus.
+9,it's okay. it's a really big campus.,good luck with school.
+10,good luck with school.,thank you very much.
+11,how's it going?,i'm doing well. how about you?
+12,i'm doing well. how about you?,"never better, thanks."
+13,"never better, thanks.",so how have you been lately?
+14,so how have you been lately?,i've actually been pretty good. you?
+15,i've actually been pretty good. you?,i'm actually in school right now.
+16,i'm actually in school right now.,which school do you attend?
+17,which school do you attend?,i'm attending pcc right now.
+18,i'm attending pcc right now.,are you enjoying it there?
+19,are you enjoying it there?,it's not bad. there are a lot of people there.
+20,it's not bad. there are a lot of people there.,good luck with that.
+21,good luck with that.,thanks.
+22,how are you doing today?,i'm doing great. what about you?
+23,i'm doing great. what about you?,"i'm absolutely lovely, thank you."
+24,"i'm absolutely lovely, thank you.",everything's been good with you?
+25,everything's been good with you?,i haven't been better. how about yourself?
+26,i haven't been better. how about yourself?,i started school recently.
+27,i started school recently.,where are you going to school?
+28,where are you going to school?,i'm going to pcc.
+29,i'm going to pcc.,how do you like it so far?
+30,how do you like it so far?,i like it so far. my classes are pretty good right now.
+31,i like it so far. my classes are pretty good right now.,i wish you luck.
+32,it's an ugly day today.,i know. i think it may rain.
+33,i know. i think it may rain.,"it's the middle of summer, it shouldn't rain today."
+34,"it's the middle of summer, it shouldn't rain today.",that would be weird.
+35,that would be weird.,"yeah, especially since it's ninety degrees outside."
+36,"yeah, especially since it's ninety degrees outside.","i know, it would be horrible if it rained and it was hot outside."
+37,"i know, it would be horrible if it rained and it was hot outside.","yes, it would be. "
+38,"yes, it would be. ",i really wish it wasn't so hot every day. 
+39,i really wish it wasn't so hot every day. ,me too. i can't wait until winter.
+40,me too. i can't wait until winter.,"i like winter too, but sometimes it gets too cold."
+41,"i like winter too, but sometimes it gets too cold.",i'd rather be cold than hot.
+42,i'd rather be cold than hot.,me too.
+43,it doesn't look very nice outside today.,you're right. i think it's going to rain later.
+44,you're right. i think it's going to rain later.,"in the middle of the summer, it shouldn't be raining."
+45,"in the middle of the summer, it shouldn't be raining.",that wouldn't seem right.
+46,that wouldn't seem right.,"considering that it's over ninety degrees outside, that would be weird."
+47,"considering that it's over ninety degrees outside, that would be weird.","exactly, it wouldn't be nice if it started raining. it's too hot."
+48,"exactly, it wouldn't be nice if it started raining. it's too hot.","i know, you're absolutely right."
+49,"i know, you're absolutely right.",i wish it would cool off one day.
+50,i wish it would cool off one day.,"that's how i feel, i want winter to come soon."
+51,"that's how i feel, i want winter to come soon.","i enjoy the winter, but it gets really cold sometimes."
+52,"i enjoy the winter, but it gets really cold sometimes.","i know what you mean, but i'd rather be cold than hot."
+53,"i know what you mean, but i'd rather be cold than hot.",that's exactly how i feel.
+54,i wish it was a nicer day today.,that is true. i hope it doesn't rain.
+55,that is true. i hope it doesn't rain.,it wouldn't rain in the middle of the summer.
+56,it wouldn't rain in the middle of the summer.,it wouldn't seem right if it started raining right now.
+57,it wouldn't seem right if it started raining right now.,it would be weird if it started raining in ninety degree weather.
+58,it would be weird if it started raining in ninety degree weather.,any rain right now would be pointless.
+59,any rain right now would be pointless.,"that's right, it really would be."
+60,"that's right, it really would be.",i want it to cool down some.
+61,i want it to cool down some.,"i know what you mean, i can't wait until it's winter."
+62,"i know what you mean, i can't wait until it's winter.",winter is great. i wish it didn't get so cold sometimes though.
+63,winter is great. i wish it didn't get so cold sometimes though.,i would rather deal with the winter than the summer.
+64,it's such a nice day.,"yes, it is."
+65,"yes, it is.",it looks like it may rain soon.
+66,it looks like it may rain soon.,"yes, and i hope that it does."
+67,"yes, and i hope that it does.",why is that?
+68,why is that?,i really love how rain clears the air.
+69,i really love how rain clears the air.,me too. it always smells so fresh after it rains.
+70,me too. it always smells so fresh after it rains.,"yes, but i love the night air after it rains."
+71,"yes, but i love the night air after it rains.",really? why is it?
+72,really? why is it?,because you can see the stars perfectly.
+73,because you can see the stars perfectly.,i really hope it rains today.
+74,i really hope it rains today.,"yeah, me too."
+75,isn't it a nice day?,it really is.
+76,it really is.,it seems that it may rain today.
+77,it seems that it may rain today.,hopefully it will.
+78,hopefully it will.,how come?
+79,how come?,i like how clear the sky gets after it rains.
+80,i like how clear the sky gets after it rains.,i feel the same way. it smells so good after it rains.
+81,i feel the same way. it smells so good after it rains.,i especially love the night air when it rains.
+82,i especially love the night air when it rains.,really? why?
+83,really? why?,the stars look so much closer after it rains.
+84,the stars look so much closer after it rains.,i really want it to rain today.
+85,i really want it to rain today.,"yeah, so do i."
+86,don't you think it's nice out?,"yes, i think so too."
+87,"yes, i think so too.",i think that it's going to rain.
+88,i think that it's going to rain.,i hope that it does rain.
+89,i hope that it does rain.,you like the rain?
+90,you like the rain?,the sky looks so clean after it rains. i love it.
+91,the sky looks so clean after it rains. i love it.,i understand. rain does make it smell cleaner.
+92,i understand. rain does make it smell cleaner.,i love most how it is at night after it rains.
+93,i love most how it is at night after it rains.,how come?
+94,how come?,you can see the stars so much more clearly after it rains.
+95,you can see the stars so much more clearly after it rains.,i would love for it to rain today.
+96,i really want to go to the beach this weekend.,that sounds like fun. what's the weather going to be like?
+97,that sounds like fun. what's the weather going to be like?,i heard that it's going to be warm this weekend.
+98,i heard that it's going to be warm this weekend.,is it going to be perfect beach weather?
+99,is it going to be perfect beach weather?,i believe so.
+100,i believe so.,good. i hope it doesn't cool off this weekend.
+101,good. i hope it doesn't cool off this weekend.,i know. i really want to go to the beach.
+102,i know. i really want to go to the beach.,but you know that california weather is really unpredictable.
+103,but you know that california weather is really unpredictable.,"you're right. one minute it's hot, and then the next minute it's cold."
+104,"you're right. one minute it's hot, and then the next minute it's cold.",i really wish the weather would just stay the same.
+105,i really wish the weather would just stay the same.,i do too. that way we can have our activities planned ahead of time.
+106,i do too. that way we can have our activities planned ahead of time.,"yeah, that would make things a lot easier."
+107,i would like to take a trip to the beach this weekend.,a trip to the beach would be fun. how is the weather going to be?
+108,a trip to the beach would be fun. how is the weather going to be?,the forecast says that it will be warm on the weekend.
+109,the forecast says that it will be warm on the weekend.,so do you think it'll be perfect weather for the beach?
+110,so do you think it'll be perfect weather for the beach?,it sounds like it will be.
+111,it sounds like it will be.,i really hope it doesn't get cold.
+112,i really hope it doesn't get cold.,"that would ruin things, i want to go so badly."
+113,"that would ruin things, i want to go so badly.","the weather in california is unpredictable, so you never know."
+114,"the weather in california is unpredictable, so you never know.",that is true. the weather is constantly changing.
+115,that is true. the weather is constantly changing.,it would be nice if the weather would never change.
+116,it would be nice if the weather would never change.,"that would be great, then we could plan things sooner."
+117,"that would be great, then we could plan things sooner.",true. predictable weather would make life easier.
+118,it would be nice to go to the beach sometime this weekend.,what's the weather going to be like? i may want to go too.
+119,what's the weather going to be like? i may want to go too.,the weather this weekend is supposed to be warm.
+120,the weather this weekend is supposed to be warm.,will it be good beach weather?
+121,will it be good beach weather?,i think it will be.
+122,i think it will be.,it wouldn't be good if it got cold this weekend.
+123,it wouldn't be good if it got cold this weekend.,"i want this trip to be perfect, i hope it stays warm."
+124,"i want this trip to be perfect, i hope it stays warm.","this california weather is so uncertain, it's impossible to know what'll happen."
+125,"this california weather is so uncertain, it's impossible to know what'll happen.",i know. every day the weather seems different.
+126,i know. every day the weather seems different.,i would love it if it wasn't always so unpredictable.
+127,i would love it if it wasn't always so unpredictable.,that would make it easier for us to make plans.
+128,"hello, may i speak to alice please?",this is she. how's it going?
+129,this is she. how's it going?,i've been trying to call you all day.
+130,i've been trying to call you all day.,sorry about that. i was cleaning up.
+131,sorry about that. i was cleaning up.,it's okay.
+132,it's okay.,so what were you calling me about?
+133,so what were you calling me about?,"oh, i just wanted to see if you wanted to hang out tomorrow."
+134,"oh, i just wanted to see if you wanted to hang out tomorrow.","sure, what did you want to do?"
+135,"sure, what did you want to do?",maybe we can go see a movie or something.
+136,maybe we can go see a movie or something.,that sounds like fun. let's do it.
+137,that sounds like fun. let's do it.,i'll see you tomorrow then.
+138,i'll see you tomorrow then.,see you then. goodbye.
+139,"hi, how are you. is alice there?",speaking. what's up?
+140,speaking. what's up?,why haven't you answered the phone?
+141,why haven't you answered the phone?,"my bad, i had chores to do."
+142,"my bad, i had chores to do.",that's all right.
+143,that's all right.,what was the reason for your call?
+144,what was the reason for your call?,i want to do something tomorrow with you.
+145,i want to do something tomorrow with you.,sounds good. what did you have in mind?
+146,sounds good. what did you have in mind?,i was thinking about seeing a movie.
+147,i was thinking about seeing a movie.,"okay, let's go see a movie."
+148,"okay, let's go see a movie.",until then.
+149,until then.,talk to you later.
+150,is alice available?,you're talking to her.
+151,you're talking to her.,i've called you a hundred times today.
+152,i've called you a hundred times today.,i was busy doing something. i apologize.
+153,i was busy doing something. i apologize.,no problem.
+154,no problem.,did you need something?
+155,did you need something?,do you want to do something tomorrow?
+156,do you want to do something tomorrow?,is there somewhere special you wanted to go?
+157,is there somewhere special you wanted to go?,how about a movie?
+158,how about a movie?,a movie sounds good.
+159,a movie sounds good.,call me tomorrow then.
+160,have you seen the new girl in school?,"no, i haven't."
+161,"no, i haven't.",she's really pretty.
+162,she's really pretty.,describe her to me.
+163,describe her to me.,she's not too tall.
+164,she's not too tall.,"well, how tall is she?"
+165,"well, how tall is she?",she's about five feet even.
+166,she's about five feet even.,"what does she look like, though?"
+167,"what does she look like, though?",she has pretty light brown eyes.
+168,she has pretty light brown eyes.,i may know which girl you're talking about.
+169,i may know which girl you're talking about.,so you have seen her around?
+170,so you have seen her around?,"yes, i have."
+171,"there's a new girl in school, have you seen her yet?",i haven't seen her yet.
+172,i haven't seen her yet.,i think that she is very pretty.
+173,i think that she is very pretty.,tell me how she looks.
+174,tell me how she looks.,she's kind of short.
+175,she's kind of short.,what height is she?
+176,what height is she?,she's probably about five feet.
+177,she's probably about five feet.,"that's nice, but tell me what she looks like."
+178,"that's nice, but tell me what she looks like.",the first thing i noticed was her beautiful brown eyes.
+179,the first thing i noticed was her beautiful brown eyes.,i think i might've bumped into her before.
+180,i think i might've bumped into her before.,are you telling me that you've seen her before?
+181,are you telling me that you've seen her before?,i believe so.
+182,have you met the new girl?,no. have you?
+183,no. have you?,she's one of the prettiest girls at the school.
+184,she's one of the prettiest girls at the school.,what does she look like?
+185,what does she look like?,"well, she's quite short."
+186,"well, she's quite short.",how tall would you say that she is?
+187,how tall would you say that she is?,i would say she's only five feet.
+188,i would say she's only five feet.,what about her facial features?
+189,what about her facial features?,"she has light brown eyes, absolutely beautiful."
+190,"she has light brown eyes, absolutely beautiful.",i think i know who you're talking about.
+191,i think i know who you're talking about.,have you seen her?
+192,why weren't you at school yesterday?,i wasn't really feeling well.
+193,i wasn't really feeling well.,what was wrong with you?
+194,what was wrong with you?,my stomach was upset.
+195,my stomach was upset.,do you feel better now?
+196,do you feel better now?,i don't really feel too well yet.
+197,i don't really feel too well yet.,do you want anything to make you feel better?
+198,do you want anything to make you feel better?,"no, thanks. i already took some medicine."
+199,"no, thanks. i already took some medicine.",i hope you feel better.
+200,i hope you feel better.,thank you.
+201,what reason do you have for missing school?,i was sick.
+202,i was sick.,how were you sick?
+203,how were you sick?,i had a stomachache.
+204,i had a stomachache.,did it get any better?
+205,did it get any better?,i'm still feeling under the weather.
+206,i'm still feeling under the weather.,would you like anything for your stomach?
+207,would you like anything for your stomach?,i took something earlier.
+208,i took something earlier.,get better.
+209,get better.,thanks a lot.
+210,why didn't you go to school yesterday?,i stayed home because i wasn't feeling well.
+211,i stayed home because i wasn't feeling well.,what was your problem?
+212,what was your problem?,my stomach was bothering me.
+3388962,What should I know before starting a new medication?,"The best source of information regarding medications is the physician prescribing them. He or she should be able to answer questions such as:    1. What is the medication supposed to do? 2. When should it begin to take effect, and how will I know when it is effective? 3. How is the medication taken and for how long? What food, drinks, other medicines, and activities should be avoided while taking this medication? 4. What are the side effects and what should be done if they occur? 5. What do I do if a dose is missed? 6. Is there any written information available about this medication? 7. Are there other medications that might be appropriate? 8. If so, why do you prefer the one you have chosen? 9. How do you monitor medications and what symptoms indicate that they should be raised, lowered, or changed? 10. All medications should be taken as directed. Most medications for mental illnesses do not work when taken irregularly, and extra doses can cause severe, sometimes dangerous side effects. Many psychiatric medications begin to have a beneficial effect only after they have been taken for several weeks."
+5343181,"If I feel better after taking medication, does this mean I am ""cured"" and can stop taking it?","It is not uncommon for people to stop taking their medication when they feel their symptoms are under control. Others may choose to stop taking their medication because of its side effects, without realizing that most side effects can be effectively managed. While it may seem reasonable to stop taking the medication, the problem is that most often, the symptoms will return. If you or your child is taking medication, it is very important that you work together with your doctor before making decisions about any changes in your treatment.\nAnother problem with stopping medication, particularly for stopping it abruptly, is that you may develop withdrawal symptoms that can be very unpleasant. If you and your doctor feel a trial off your medicine is a good idea, it is necessary to slowly decrease the dosage of medications so that these symptoms don’t occur.\nIt is important that your doctor and pharmacist work together to make sure your medications are working safely and effectively. You should talk with them about how you are doing and if there are side effects that make you unwilling to continue treatment. They will work with you to develop strategies for minimizing these side effects, or will create a plan for switching to a different treatment that will be a better fit."
+5778437,How can I get help paying for my medication?,"Some pharmaceutical companies offer prescription assistance programs to individuals and families with financial needs, while others offer special drug discount cards. These programs typically require a doctor’s consent and proof of your financial status. They may also require that you have either no health insurance or no prescription drug benefit through your health insurance.\nIn addition, there are prescription programs you might qualify for. Visit Healthfinder.gov to learn more."
+9541219,Where can I go to find therapy,"Different kinds of therapy are more effective based on the nature of the mental health condition and/or symptoms and the person who has them (for example, children will benefit from a therapist who specializes in children’s mental health). However, there are several different types of treatment and therapy that can help."
+3268009,Where can I learn about types of mental health treatment?,"Mental health conditions are often treated with medication, therapy or a combination of the two. However, there are many different types of treatment available, including Complementary & Alternative Treatments, self-help plans, and peer support. Treatments are very personal and should be discussed by the person with the mental health conditions and his or her team."
+3340726,What are the different types of mental health professionals?,There are many types of mental health professionals. Finding the right one for you may require some research.
+9539480,Where can I go to find a support group?,"Many people find peer support a helpful tool that can aid in their recovery. There are a variety of organizations that offer support groups for consumers, their family members and friends. Some support groups are peer-led, while others may be led by a mental health professional."
+4211025,Where can I go to find inpatient care?,"If you or someone you know is in crisis, inpatient care can help. Inpatient care can help people stabilize on new medications, adjust to new symptoms, or get the help they need."
+4031860,Where can I go to find other local services?,"There are likely plenty of resources that can be used to help you find mental health treatment in your community. These resources can help you find the right therapist, and enable you to better understand viable treatment options and the treatment process."
+5215843,Where can I learn more information about clinical trials?,"Sometimes, consumers of mental health services may consider participating in a research study when they have not experienced improvement despite having tried a variety of medications and treatments. Research studies (also known as clinical trials) may involve the use of new medications or new treatment approaches whose safety and effectiveness is being tested. While we support innovation in the field, consumers should be cautioned that there are risks associated with clinical trials – make sure you’re aware of them before you enroll."
+8927672,Where can I learn more information about creating a Psychiatric Advance Directive?,"Similar to a medical advance directive or a health care power of attorney, a psychiatric advance directive is a legal document completed in a time of wellness that provides instructions regarding treatment or services one wishes to have or not have during a mental health crisis, and may help influence his or her care."
+7728364,What is mental health?,"We all have mental health which is made up of our beliefs, thoughts, feelings and behaviours."
+4194958,What do I do if the support doesn’t help?,"It can be difficult to find the things that will help you, as different things help different people. It's important to be open to a range of approaches and to be committed to finding the right help and to continue to be hopeful, even when some things don't work out."
+1667863,Can you prevent mental health problems?,"We can all suffer from mental health challenges, but developing our wellbeing, resilience, and seeking help early can help prevent challenges becoming serious."
+8904276,Are there cures for mental health problems?,"It is often more realistic and helpful to find out what helps with the issues you face. Talking, counselling, medication, friendships, exercise, good sleep and nutrition, and meaningful occupation can all help."
+4283807,What causes mental health problems?,"Challenges or problems with your mental health can arise from psychological, biological, and social, issues, as well as life events."
+8690253,What do I do if I’m worried about my mental health?,"The most important thing is to talk to someone you trust. This might be a friend, colleague, family member, or GP. In addition to talking to someone, it may be useful to find out more information about what you are experiencing. These things may help to get some perspective on what you are experiencing, and be the start of getting help."
+2973656,How do I know if I’m unwell?,"If your beliefs , thoughts , feelings or behaviours have a significant impact on your ability to function in what might be considered a normal or ordinary way, it would be important to seek help."
+4759773,What should I do if I’m worried about a friend or relative?,This may depend on your relationship with them. Gently encouraging someone to seek appropriate support would be helpful to start with.
+1511075,How do I deal with someone telling me what to do?,"Some people may advise you on good evidence of what works with the best of intentions, but it's important to find out what works best for you."
